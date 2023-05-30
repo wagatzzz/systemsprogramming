@@ -1,0 +1,12 @@
+pwd print working directory
+cd chande directory
+mkdir make directory
+rm delete
+touch create a file
+rmdir remove directory
+alias list all aliases you have in your shell session
+alias NAME="VALUE" make aliases
+unalias removes an alias
+cd .. move a level up
+cd ~ return to previous directory
+man show manual page

@@ -1,0 +1,9 @@
+ls list
+cp copies files or directories
+mv rename or move files or directories
+grep search for pattern in files or inputs
+chmod change the permissions of files or directory
+chown change the owner of a file or directory
+chgrp changes the group of a file or directory
+ssh connects to a remote server using the SSH protocol
+find searches for files or directories based on various criteria
